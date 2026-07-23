@@ -1,54 +1,114 @@
-# Emergency Response System 🚨
+<div align="center">
 
-A real-time emergency response platform connecting citizens, police, and hospitals — built to streamline emergency reporting and response coordination.
+# 🚨 Emergency Response System
 
-## Live Demo
+**A real-time emergency response platform connecting citizens, police, and hospitals.**
+Built to streamline emergency reporting and response coordination.
 
-🔗 [Try it live](https://emergency-response-syste-eefaa.web.app/)
+[![Live Demo](https://img.shields.io/badge/🚨_Try_It_Live-Live_Demo-dc2626?style=for-the-badge)](https://emergency-response-syste-eefaa.web.app/)
 
-## About
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=flat-square)
 
-Emergency Response System is a comprehensive, real-time platform designed to bridge the gap between citizens facing emergencies and the responders who can help — police units, hospitals, and system administrators — all coordinated through a single, live-synced platform.
+![Last Commit](https://img.shields.io/github/last-commit/Abdul-Hadi-del/emergency-response-system?style=flat-square&color=dc2626)
+![Repo Size](https://img.shields.io/github/repo-size/Abdul-Hadi-del/emergency-response-system?style=flat-square&color=dc2626)
+![Stars](https://img.shields.io/github/stars/Abdul-Hadi-del/emergency-response-system?style=flat-square&color=dc2626)
 
-## Features
+</div>
 
-- 🆘 One-tap SOS emergency reporting with emergency type selection and location detection
-- 📊 Live command dashboard showing real-time system status and emergency activity
-- 📢 Real-time broadcast alert system for emergency notifications
-- 📍 Live tracking of active response units on a map (Karachi, Sindh)
-- 🏥 Hospitals directory with real-time bed availability, speciality, and direct "Call Now" functionality
-- 🚓 Police/rescue units directory with real-time availability and specialities
-- 🛠️ Admin monitoring dashboard to log, track, and manage all reported emergencies
-- 🔐 Firebase Authentication-based login securing citizen, police, and admin access
+---
 
-## Tech Stack
+## 📑 Table of Contents
 
-- **Frontend:** React, React Router
-- **Backend & Real-time Sync:** Firebase, Firestore
-- **Authentication:** Firebase Authentication
-- **Data Visualization:** Recharts
-- **Notifications:** EmailJS
+- [About](#-about)
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [How to Run Locally](#-how-to-run-locally)
+- [Author](#-author)
 
-## How to Run Locally
+---
 
-1. Clone the repository:
+## 📖 About
+
+Emergency Response System is a comprehensive, real-time platform designed to bridge the gap between citizens facing emergencies and the responders who can help — **police units**, **hospitals**, and **system administrators** — all coordinated through a single, live-synced platform.
+
+---
+
+## ✨ Features
+
+| | Feature | Description |
+|---|---|---|
+| 🆘 | **One-Tap SOS** | Instant emergency reporting with type selection and location detection |
+| 📊 | **Command Dashboard** | Live view of system status and emergency activity in real time |
+| 📢 | **Broadcast Alerts** | Real-time emergency notifications sent across the platform |
+| 📍 | **Live Unit Tracking** | Active response units tracked live on a map (Karachi, Sindh) |
+| 🏥 | **Hospital Directory** | Real-time bed availability, specialities, and one-tap "Call Now" |
+| 🚓 | **Police/Rescue Directory** | Live availability and specialities of response units |
+| 🛠️ | **Admin Monitoring** | Log, track, and manage every reported emergency from one place |
+| 🔐 | **Role-Based Auth** | Secure Firebase login separating citizen, police, and admin access |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Technology |
+|:---:|:---:|
+| **Frontend** | React · React Router |
+| **Backend / Sync** | Firebase · Firestore |
+| **Auth** | Firebase Authentication |
+| **Charts** | Recharts |
+| **Notifications** | EmailJS |
+
+</div>
+
+---
+
+## 🚀 How to Run Locally
+
+<details>
+<summary><b>Click to expand setup steps</b></summary>
+
+<br>
+
+**1. Clone the repository**
 ```bash
-   git clone https://github.com/Abdul-Hadi-del/emergency-response-system.git
-   cd emergency-response-system
+git clone https://github.com/Abdul-Hadi-del/emergency-response-system.git
+cd emergency-response-system
 ```
 
-2. Install dependencies:
+**2. Install dependencies**
 ```bash
-   npm install
+npm install
 ```
 
-3. Set up your Firebase configuration in `src/firebase.js`
+**3. Set up your Firebase configuration**
+Add your credentials in `src/firebase.js`.
 
-4. Run the app:
+**4. Run the app**
 ```bash
-   npm start
+npm start
 ```
 
-## Author
+</details>
 
-**Abdul Hadi** — Software Engineering Student
+---
+
+<div align="center">
+
+## 👤 Author
+
+**Abdul Hadi**
+Software Engineering Student
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Hadi-del)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://hadi-portfolio-view.netlify.app)
+
+<br>
+
+### ⭐ If you liked this project, consider giving it a star!
+
+</div>
