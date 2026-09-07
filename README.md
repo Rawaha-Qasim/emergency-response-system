@@ -101,11 +101,11 @@ npm start
 
 ## 👤 Author
 
-**Abdul Hadi**
-Software Engineering Student
+**Rawaha Qasim**
+Artificial Intelligence Student
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Hadi-del)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://hadi-portfolio-view.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Rawaha-Qasim)
 
 <br>
 
